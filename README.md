@@ -9,9 +9,9 @@ Customer Lifetime Value ermitteln
 *	Verkaufte Produkte
 *	Aktivität des Kunden
 *	Bestellungen des Kunden 
-**	Wie oft hat der Kunde etwas gekauft
-**	In welcher Zeiteinheit hat der Kunde die Produkte gekauft?
-**	Umsatz
+*	Wie oft hat der Kunde etwas gekauft
+*	In welcher Zeiteinheit hat der Kunde die Produkte gekauft?
+*	Umsatz
 *	RFM-Matrix (Recency, Frequency) 
 
 
