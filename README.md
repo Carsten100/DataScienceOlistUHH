@@ -1,13 +1,19 @@
 # Brazilian E-Commerce Public Dataset by Olist
 ![lul](https://i0.wp.com/alitech.com.ng/wp-content/uploads/2019/12/Screenshot_20191209-104115.png?fit=720%2C639&ssl=1)]
 
-Sprache is a simple, lightweight library for constructing parsers directly in C# code.
+Link zum Datenset:
+https://www.kaggle.com/olistbr/brazilian-ecommerce
 
-It doesn't compete with "industrial strength" language workbenches - it fits somewhere in between regular expressions and a full-featured toolset like [ANTLR](http://antlr.org).
+### Cosumter Lifetime Value ermitteln
+Customer Lifetime Value ermitteln
+	Verkaufte Produkte
+	Aktivität des Kunden
+	Bestellungen des Kunden 
+o	Wie oft hat der Kunde etwas gekauft
+o	In welcher Zeiteinheit hat der Kunde die Produkte gekauft?
+o	Umsatz
+	RFM-Matrix (Recency, Frequency) 
 
-(https://avatars1.githubusercontent.com/u/1999078?v=3&s=200)
-
-### Usage
 
 Unlike most parser-building frameworks, you use Sprache directly from your program code, and don't need to set up any build-time code generation tasks. Sprache itself is a single tiny assembly.
 
