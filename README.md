@@ -6,13 +6,13 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 ### Cosumter Lifetime Value ermitteln
 Customer Lifetime Value ermitteln
-	Verkaufte Produkte
-	Aktivität des Kunden
-	Bestellungen des Kunden 
-o	Wie oft hat der Kunde etwas gekauft
-o	In welcher Zeiteinheit hat der Kunde die Produkte gekauft?
-o	Umsatz
-	RFM-Matrix (Recency, Frequency) 
+*	Verkaufte Produkte
+*	Aktivität des Kunden
+*	Bestellungen des Kunden 
+**	Wie oft hat der Kunde etwas gekauft
+**	In welcher Zeiteinheit hat der Kunde die Produkte gekauft?
+**	Umsatz
+*	RFM-Matrix (Recency, Frequency) 
 
 
 Unlike most parser-building frameworks, you use Sprache directly from your program code, and don't need to set up any build-time code generation tasks. Sprache itself is a single tiny assembly.
