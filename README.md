@@ -5,7 +5,7 @@ Sprache is a simple, lightweight library for constructing parsers directly in C#
 
 It doesn't compete with "industrial strength" language workbenches - it fits somewhere in between regular expressions and a full-featured toolset like [ANTLR](http://antlr.org).
 
-![Sprache](https://avatars1.githubusercontent.com/u/1999078?v=3&s=200)
+(https://avatars1.githubusercontent.com/u/1999078?v=3&s=200)
 
 ### Usage
 
