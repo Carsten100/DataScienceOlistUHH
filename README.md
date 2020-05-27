@@ -33,7 +33,7 @@ Customer Lifetime Value ermitteln
 *Muss noch gemacht werden:*
 * Datenset analysieren und visualisieren.
 
-*Momentan bearbeitetes Notebook:
+* Momentan bearbeitetes Notebook:
 ```csharp
 Datavisualization.pynb
 .....
