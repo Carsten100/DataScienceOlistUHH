@@ -1,5 +1,5 @@
 # Brazilian E-Commerce Public Dataset by Olist
-## Ketambranch
+## Ketanbranch
 
 Dein Notizbuch
 
@@ -9,6 +9,15 @@ Dein Notizbuch
 *Momentan bearbeitetes Notebook:
 ```csharp
 Datavisualization.pynb
+
+
+- Die beliebtesten Produkte - ketan
+1.) ueber order_item_data
+2.) product_id zugreifen
+	2.1) wie oft kam es im column vor?
+3.) ueber categoryTranslation den Namen herausfinden
+
+
 .....
 ```
 
