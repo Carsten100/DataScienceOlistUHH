@@ -1,5 +1,5 @@
 # Brazilian E-Commerce Public Dataset by Olist
-## Ketambranch
+## OweysBranch
 
 Dein Notizbuch
 
@@ -9,6 +9,7 @@ Dein Notizbuch
 *Momentan bearbeitetes Notebook:
 ```csharp
 Datavisualization.pynb
+--> Balkendiagram für Bestellungsanzahl
 .....
 ```
 
