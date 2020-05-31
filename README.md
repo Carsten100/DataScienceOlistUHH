@@ -9,6 +9,18 @@ Dein Notizbuch
 *Momentan bearbeitetes Notebook:
 ```csharp
 Datavisualization.pynb
+- Funktion fuer die Columns. 
+- Wie viele Bestellungen pro monat?
+- Wie viele Kunden pro Monat?
+- Beliebteste Verkäufer und deren Verkäufe
+1.) ueber OrderItemSet
+2.) seller_id aufrufen. Wie oft wurde seller_id aufgerufen? //haeufigkeit des Sellers
+3.) ueber Order_id den durschnitt des review_scores des verkaeufers bestimmen.
+---> Problem: in einer Order_id wurden manchmal mehrere Produkte vereint bewertet. Das heißt es kann
+sein, dass ein verkaeufer fuer sein produkt besser bzw schlechter bewertet wird, wegen eines 
+anderen Produktes innerhalb der Order_id.
+Idee: es sind mehr einzelprodukte pro bestellungen. Wir nehmen die Abweichung in kauf. (bitte vorher
+anmerken)
 --> Balkendiagram für Bestellungsanzahl
 .....
 ```
