@@ -1,5 +1,5 @@
 # Brazilian E-Commerce Public Dataset by Olist
-## Ketambranch
+## JonathanBranch
 
 Dein Notizbuch
 
@@ -9,6 +9,15 @@ Dein Notizbuch
 *Momentan bearbeitetes Notebook:
 ```csharp
 Datavisualization.pynb
+
+
+
+- Review für die Category (durschnitt und anzahl)
+1.)aufruf von reviewDataSet
+2.) ueber order_id auf product_id zugreifen und dann die zugehörigen
+Scores summe und durschnitt bilden. 
+3.) uebersetzen
+
 .....
 ```
 
