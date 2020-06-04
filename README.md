@@ -9,9 +9,10 @@ Dein Notizbuch
 *Momentan bearbeitetes Notebook:
 ```csharp
 Datavisualization.pynb
-- Funktion fuer die Columns. 
 - Wie viele Bestellungen pro monat?
+
 - Wie viele Kunden pro Monat?
+
 - Beliebteste Verkäufer und deren Verkäufe
 1.) ueber OrderItemSet
 2.) seller_id aufrufen. Wie oft wurde seller_id aufgerufen? //haeufigkeit des Sellers
